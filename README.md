@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Taukif Alam and I'm a Frontend Developer from Ranchi.
+## Hi there 👋 My name is Taukif Alam.
 
 <!--
 **Taukif/Taukif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
